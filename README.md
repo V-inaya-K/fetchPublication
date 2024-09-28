@@ -1,5 +1,5 @@
 # Problem: 
-We want to create a tool that can automatically gather a professor's publication record from different sources like Google Scholar and DBLP.
+We want to create a tool that can automatically gather a professor's publication record from different sources like Google Scholar and DBLP.And Further store it into an Excel Sheet.
 
 # How it works:
 Input: You provide the professor's name and the years you're interested in.
