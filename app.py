@@ -54,7 +54,7 @@ def get_publications(professor_name, years):
     print("Publications:", all_publications)
     return all_publications
 
-st.title('Publication Record Tool')
+st.title('ScholarHouse')
 
 professor_name = st.text_input('Professor Name')
 years = st.multiselect('Years', range(2000, 2025))
