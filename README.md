@@ -22,3 +22,6 @@ Customizable: You can choose the specific years and publication types you're int
 4. cd..
 5. cd..
 6. streamlit run app.py
+
+# Streamlit App with Multilingual Support in:
+backup.py file
