@@ -18,7 +18,7 @@ Customizable: You can choose the specific years and publication types you're int
 # Steps To Run
 1. cd venv
 2. cd scripts
-3. ./activate
+3. activate.bat
 4. cd..
 5. cd..
 6. streamlit run app.py
